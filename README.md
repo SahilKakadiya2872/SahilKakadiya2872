@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Sahil Kakadiya 👋
 
-<!--
-**SahilKakadiya2872/SahilKakadiya2872** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Software Engineering  
+📍 Heilbronn, Germany  
+🎮 Passionate about VR, Unity, Game Development, and UI/UX Design
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I enjoy building immersive and interactive experiences using Unity and VR technologies.
+
+My recent work includes VR environment development, XR interaction systems, Unity gameplay prototypes, and UI/UX design.
+
+---
+
+## Featured Projects
+
+### 🌍 Hoffmann Experience VR
+Internship project showcase developed at Hochschule Heilbronn UnityLab for the TURTLE VR project using Unity, Meta XR tools, and Meta Quest 3.
+
+### 🥷 Ninja Survival
+3D Unity survival prototype featuring animated characters, environment design, and gameplay systems.
+
+### 🥽 VR Room
+Interactive VR room project developed using Unity XR Interaction Toolkit.
+
+---
+
+## Technologies & Tools
+
+- Unity
+- C#
+- Meta Quest 3
+- Meta XR Interaction Toolkit
+- XR Interaction Toolkit
+- Git & GitHub
+- Figma
+- Adobe Photoshop
+- Adobe XD
+- HTML, CSS, JavaScript
+
+---
+
+## Currently Focused On
+
+- Unity VR development
+- Interactive 3D applications
+- Game development
+- XR interaction systems
+- UI/UX design
+
+---
+
+## Contact
+
+📧 sahilkakadiya010@gmail.com  
+🔗 LinkedIn: linkedin.com/in/sahil-kakadiya02
